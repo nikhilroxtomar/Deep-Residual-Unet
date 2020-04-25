@@ -1,6 +1,6 @@
 # Deep-Residual-Unet
 
-Paper: https://arxiv.org/pdf/1711.10684.pdf
+Paper: https://arxiv.org/pdf/1711.10684.pdf <br/>
 Video Explaination: https://youtu.be/BOoBWRTpaKk
 
 ## Architecture
